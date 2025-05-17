@@ -1,6 +1,6 @@
 ## About this Project
 
-This is a React Web App created as part of my React learning journey.
+This basic React Web App was created as part of my React learning journey.
 
 ## Screenshots
 
